@@ -16,8 +16,7 @@ gem 'bootstrap-will_paginate'
 #gem 'whenever', :require => false
 
 group :development, :test do
-	# gem 'sqlite3', '1.3.8'
-	
+	gem 'sqlite3', '1.3.8'
 
 	gem 'childprocess', '0.3.6'
 end
